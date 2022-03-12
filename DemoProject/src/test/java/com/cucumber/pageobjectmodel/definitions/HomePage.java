@@ -5,6 +5,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+/* 
+ * Author Vaibhavi Shah
+ * 
+ * */
 public class HomePage {
 
 	 WebDriver driver;
